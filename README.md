@@ -25,3 +25,9 @@
 	* Runtime type safety
 	* Garbage collection
 	* Native code performance
+
+* C# code is compiled into IL assemblies.
+* IL is JIT-complied at runtime if/when used.
+* JITed code exhibits native preformance.
+* The CLR ensure runtime type safety.
+* The BCL includes general purpose libraries & app framework functionality.
